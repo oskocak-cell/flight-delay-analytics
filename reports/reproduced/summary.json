@@ -1,0 +1,11 @@
+{
+  "flights": 250,
+  "avg_departure_delay_min": 14.28,
+  "avg_arrival_delay_min": 18.856,
+  "delayed_flights": 196,
+  "date_range": [
+    "2020-02-08",
+    "2025-12-17"
+  ],
+  "delay_definition": "departure > 15 minutes OR arrival > 15 minutes"
+}

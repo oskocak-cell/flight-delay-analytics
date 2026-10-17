@@ -1,0 +1,251 @@
+aircraft_id,registration_number,model,capacity,owner_company
+1,N53081HD,Boeing 757-200,197,Southwest Airlines
+2,N88151NJ,Boeing 737-800,175,Southwest Airlines
+3,N34292ZW,Boeing 737-700,142,Allegiant Air
+4,N80286UO,Airbus A350-900,327,Delta Air Lines
+5,N35105HV,Airbus A321neo,231,United Airlines
+6,N14131DY,Airbus A320,175,Allegiant Air
+7,N70466VR,Airbus A350-900,323,United Airlines
+8,N79495MZ,Boeing 737-900,179,Alaska Airlines
+9,N14926HH,Airbus A330-300,333,Alaska Airlines
+10,N57710ZN,Boeing 737 MAX 8,180,United Airlines
+11,N59777KD,Boeing 737-800,178,Southwest Airlines
+12,N80224NE,Boeing 757-200,201,Allegiant Air
+13,N68398MZ,Airbus A330-200,295,JetBlue Airways
+14,N92059AA,Airbus A319,144,JetBlue Airways
+15,N48748ML,Boeing 777-300ER,373,United Airlines
+16,N25187GF,Boeing 757-200,201,Allegiant Air
+17,N35707HB,Boeing 787-9,286,Spirit Airlines
+18,N86732JP,Boeing 737 MAX 8,181,Alaska Airlines
+19,N98174BQ,Boeing 767-300,257,Allegiant Air
+20,N23746DH,Boeing 767-300,256,Alaska Airlines
+21,N75264EU,Airbus A321neo,236,Delta Air Lines
+22,N96649WF,Airbus A330-200,289,Hawaiian Airlines
+23,N25799US,Airbus A321,219,Allegiant Air
+24,N49977PZ,Boeing 737 MAX 8,182,JetBlue Airways
+25,N90514BQ,Airbus A321,216,Alaska Airlines
+26,N51918KH,Boeing 737-800,173,Allegiant Air
+27,N95440ZJ,Airbus A330-300,333,United Airlines
+28,N51365XX,Boeing 737-700,146,JetBlue Airways
+29,N83751JA,Boeing 777-300ER,373,Southwest Airlines
+30,N67774OO,Airbus A321neo,240,Alaska Airlines
+31,N31415HD,Boeing 787-9,289,Allegiant Air
+32,N84708XO,Boeing 737-800,170,Southwest Airlines
+33,N77961JH,Boeing 737 MAX 9,189,Alaska Airlines
+34,N96427MF,Airbus A330-300,334,JetBlue Airways
+35,N77089WM,Boeing 777-200,302,Frontier Airlines
+36,N48888TA,Boeing 787-9,286,United Airlines
+37,N30946DD,Airbus A330-300,339,Southwest Airlines
+38,N28197KZ,Boeing 757-200,197,Allegiant Air
+39,N44132PF,Airbus A350-900,324,JetBlue Airways
+40,N16792BW,Boeing 767-300,264,Alaska Airlines
+41,N66658BU,Boeing 777-300ER,370,Allegiant Air
+42,N95426SM,Airbus A330-300,336,Hawaiian Airlines
+43,N72632RT,Boeing 737 MAX 9,190,Alaska Airlines
+44,N24497RV,Boeing 777-300ER,368,JetBlue Airways
+45,N72300YL,Boeing 767-300,264,United Airlines
+46,N68033VB,Airbus A330-300,331,Delta Air Lines
+47,N44640UP,Boeing 777-200,303,Allegiant Air
+48,N19101JI,Boeing 737-900,180,Hawaiian Airlines
+49,N13227WN,Boeing 757-200,202,Alaska Airlines
+50,N30494TK,Boeing 737-700,138,United Airlines
+51,N96438YJ,Boeing 737 MAX 9,194,Alaska Airlines
+52,N67361DD,Airbus A330-200,290,Frontier Airlines
+53,N86545UT,Airbus A321neo,234,Spirit Airlines
+54,N41410RL,Boeing 767-300,256,Southwest Airlines
+55,N71498AY,Boeing 737-900,173,Frontier Airlines
+56,N39183WE,Airbus A321neo,238,Hawaiian Airlines
+57,N36370FD,Boeing 737-800,170,American Airlines
+58,N18760AK,Boeing 737 MAX 9,195,JetBlue Airways
+59,N74397OQ,Boeing 777-200,305,Delta Air Lines
+60,N99776WZ,Boeing 737-900,173,Frontier Airlines
+61,N13796TT,Boeing 787-8,242,Allegiant Air
+62,N19225JX,Airbus A330-300,336,Alaska Airlines
+63,N75705XR,Airbus A330-300,337,Spirit Airlines
+64,N21462RT,Boeing 777-300ER,369,Frontier Airlines
+65,N36434AF,Boeing 737-700,139,Alaska Airlines
+66,N60555RR,Airbus A319,144,JetBlue Airways
+67,N35364CA,Boeing 737-800,172,Southwest Airlines
+68,N23966ZG,Boeing 737 MAX 9,193,JetBlue Airways
+69,N86781OA,Boeing 777-300ER,368,Southwest Airlines
+70,N88038RY,Airbus A330-300,336,Delta Air Lines
+71,N71770TJ,Boeing 787-8,242,Delta Air Lines
+72,N85540KO,Boeing 777-300ER,369,Spirit Airlines
+73,N72231UG,Boeing 777-200,307,JetBlue Airways
+74,N18000GY,Boeing 777-300ER,373,JetBlue Airways
+75,N75341OO,Airbus A330-200,292,Alaska Airlines
+76,N39421MQ,Boeing 737 MAX 9,193,Alaska Airlines
+77,N90053FK,Boeing 737-900,179,Alaska Airlines
+78,N20884CL,Airbus A350-900,322,JetBlue Airways
+79,N62546LN,Boeing 737-700,141,United Airlines
+80,N78569QM,Boeing 757-200,202,Alaska Airlines
+81,N16122JJ,Airbus A350-900,322,Frontier Airlines
+82,N90737MU,Airbus A330-200,296,Frontier Airlines
+83,N32847OO,Boeing 787-8,243,Allegiant Air
+84,N31997LN,Airbus A330-200,290,American Airlines
+85,N21842VG,Boeing 737 MAX 8,178,JetBlue Airways
+86,N60556KW,Airbus A319,141,American Airlines
+87,N89474PT,Airbus A330-200,296,Hawaiian Airlines
+88,N83667RD,Boeing 757-200,203,Allegiant Air
+89,N74060GO,Airbus A320,177,Delta Air Lines
+90,N70523LM,Airbus A319,145,Frontier Airlines
+91,N62930XP,Boeing 737 MAX 9,197,Hawaiian Airlines
+92,N59636WU,Boeing 737 MAX 9,193,Frontier Airlines
+93,N65241RN,Airbus A320,181,JetBlue Airways
+94,N11708PQ,Airbus A330-200,295,American Airlines
+95,N40437EN,Boeing 777-200,304,Hawaiian Airlines
+96,N91082OL,Boeing 787-9,289,Frontier Airlines
+97,N56088FQ,Airbus A321,220,Hawaiian Airlines
+98,N76781YB,Airbus A320,182,Allegiant Air
+99,N53438FP,Boeing 757-200,197,United Airlines
+100,N18476MW,Airbus A350-900,328,Southwest Airlines
+101,N77878OM,Airbus A330-300,339,JetBlue Airways
+102,N86804XL,Airbus A319,142,United Airlines
+103,N29626LY,Boeing 777-200,304,American Airlines
+104,N29121SL,Boeing 777-200,308,Delta Air Lines
+105,N83086PE,Boeing 737-700,145,Hawaiian Airlines
+106,N32802MP,Boeing 737 MAX 9,197,Delta Air Lines
+107,N87595RU,Airbus A321,220,Southwest Airlines
+108,N93533PC,Boeing 787-9,290,Spirit Airlines
+109,N44994JL,Boeing 757-200,203,Alaska Airlines
+110,N38718EK,Airbus A320,178,Hawaiian Airlines
+111,N94832OW,Boeing 737-700,145,Allegiant Air
+112,N49925QO,Airbus A330-200,295,Frontier Airlines
+113,N74173GU,Boeing 767-300,256,Delta Air Lines
+114,N31900NU,Boeing 737 MAX 9,192,Allegiant Air
+115,N52742DH,Boeing 777-200,308,United Airlines
+116,N68042MT,Airbus A330-300,330,American Airlines
+117,N32586JF,Airbus A330-300,332,United Airlines
+118,N37557JC,Airbus A350-900,326,JetBlue Airways
+119,N56003RJ,Boeing 737-700,138,Frontier Airlines
+120,N39859IV,Airbus A321,221,United Airlines
+121,N24911BV,Boeing 787-8,246,United Airlines
+122,N32522ZZ,Boeing 757-200,201,JetBlue Airways
+123,N79587YU,Boeing 737 MAX 9,197,Alaska Airlines
+124,N12758ZN,Airbus A330-200,290,Allegiant Air
+125,N38992NP,Boeing 777-300ER,365,Southwest Airlines
+126,N87228SP,Boeing 767-300,264,Southwest Airlines
+127,N99575XA,Airbus A330-300,337,Allegiant Air
+128,N15963LX,Boeing 737-800,179,American Airlines
+129,N35182CZ,Boeing 787-8,246,American Airlines
+130,N98449GO,Airbus A330-300,337,United Airlines
+131,N62023NI,Boeing 767-300,264,Southwest Airlines
+132,N90834JE,Boeing 737-700,140,United Airlines
+133,N66266ZJ,Boeing 757-200,199,JetBlue Airways
+134,N32351CK,Airbus A319,149,JetBlue Airways
+135,N81959UO,Airbus A330-300,331,Alaska Airlines
+136,N13741OX,Airbus A319,146,Spirit Airlines
+137,N94468WW,Airbus A320,180,Delta Air Lines
+138,N45839ZV,Airbus A319,143,Spirit Airlines
+139,N65143HC,Boeing 737-900,181,Hawaiian Airlines
+140,N19639RK,Boeing 777-300ER,370,Alaska Airlines
+141,N14348GZ,Airbus A321,217,Southwest Airlines
+142,N26706DM,Boeing 787-8,246,American Airlines
+143,N76129XR,Boeing 787-8,245,JetBlue Airways
+144,N45558SV,Boeing 757-200,200,JetBlue Airways
+145,N86933HS,Boeing 737 MAX 9,194,Delta Air Lines
+146,N76964FH,Airbus A330-300,333,Frontier Airlines
+147,N37487RJ,Boeing 737-800,177,Hawaiian Airlines
+148,N71450JU,Boeing 737-900,173,Frontier Airlines
+149,N58998QX,Boeing 737-900,176,Allegiant Air
+150,N26087FP,Boeing 737-900,179,Frontier Airlines
+151,N59931WB,Boeing 777-300ER,368,JetBlue Airways
+152,N76079EO,Airbus A330-300,332,Southwest Airlines
+153,N58704RB,Airbus A321neo,233,American Airlines
+154,N13777TB,Airbus A350-900,323,Delta Air Lines
+155,N77245FK,Boeing 737-900,180,Hawaiian Airlines
+156,N28065TD,Airbus A330-200,297,American Airlines
+157,N41587SL,Airbus A330-300,333,JetBlue Airways
+158,N66456TO,Boeing 777-300ER,372,American Airlines
+159,N28500QF,Boeing 737 MAX 8,174,Allegiant Air
+160,N88891MB,Boeing 777-300ER,373,Alaska Airlines
+161,N11064VX,Boeing 737 MAX 9,190,JetBlue Airways
+162,N85161LC,Boeing 737-700,147,Hawaiian Airlines
+163,N47381QL,Airbus A330-300,333,Alaska Airlines
+164,N95920IB,Boeing 757-200,199,Allegiant Air
+165,N23550FS,Airbus A321,224,United Airlines
+166,N64737RO,Boeing 737-700,145,JetBlue Airways
+167,N73555AI,Boeing 737 MAX 9,192,Allegiant Air
+168,N21806NK,Boeing 787-9,289,American Airlines
+169,N97889EJ,Boeing 757-200,196,Spirit Airlines
+170,N89112SY,Boeing 787-9,287,Frontier Airlines
+171,N69659GW,Boeing 757-200,203,Spirit Airlines
+172,N40794BI,Boeing 787-8,238,Spirit Airlines
+173,N28401MZ,Boeing 737 MAX 8,177,United Airlines
+174,N45278GW,Boeing 737 MAX 9,196,Spirit Airlines
+175,N38167HN,Boeing 777-300ER,372,JetBlue Airways
+176,N69846LO,Airbus A321neo,233,Allegiant Air
+177,N97204QM,Boeing 737 MAX 9,196,Alaska Airlines
+178,N93461PD,Airbus A350-900,329,Hawaiian Airlines
+179,N43808AB,Boeing 757-200,200,Frontier Airlines
+180,N78346XP,Boeing 777-200,301,Southwest Airlines
+181,N12003JY,Boeing 777-300ER,371,JetBlue Airways
+182,N25384TQ,Airbus A319,145,Hawaiian Airlines
+183,N53438QC,Boeing 777-200,302,United Airlines
+184,N22697OD,Boeing 737-700,139,Frontier Airlines
+185,N88490KR,Boeing 737-900,181,American Airlines
+186,N81204AL,Boeing 777-300ER,364,JetBlue Airways
+187,N31501ZO,Airbus A350-900,323,Hawaiian Airlines
+188,N66451LB,Airbus A321neo,235,Alaska Airlines
+189,N93616VD,Airbus A321,217,Frontier Airlines
+190,N29842WS,Airbus A330-300,334,Alaska Airlines
+191,N59860ES,Airbus A319,146,Delta Air Lines
+192,N35126XD,Boeing 737 MAX 8,173,American Airlines
+193,N58180BM,Boeing 737-700,144,Allegiant Air
+194,N62006DX,Boeing 787-9,285,Frontier Airlines
+195,N18100LG,Airbus A350-900,329,Spirit Airlines
+196,N99151WY,Boeing 737-900,181,Southwest Airlines
+197,N92979XJ,Boeing 767-300,263,Frontier Airlines
+198,N15872BX,Boeing 777-200,306,Hawaiian Airlines
+199,N71824KC,Boeing 777-300ER,371,Alaska Airlines
+200,N21633HF,Airbus A330-200,295,JetBlue Airways
+201,N46974YN,Boeing 737 MAX 9,195,United Airlines
+202,N24815RG,Boeing 737-800,175,United Airlines
+203,N97237GA,Airbus A321neo,240,JetBlue Airways
+204,N99436PZ,Boeing 777-300ER,365,JetBlue Airways
+205,N39366XQ,Boeing 767-300,258,Hawaiian Airlines
+206,N42434TX,Boeing 737 MAX 9,192,JetBlue Airways
+207,N56336KS,Airbus A330-300,332,Allegiant Air
+208,N41959WG,Boeing 777-200,304,American Airlines
+209,N13716YD,Airbus A321neo,231,American Airlines
+210,N42391DO,Airbus A319,146,JetBlue Airways
+211,N25530MX,Boeing 757-200,201,Frontier Airlines
+212,N86410SB,Boeing 737 MAX 9,196,Allegiant Air
+213,N46902II,Boeing 757-200,204,Spirit Airlines
+214,N97023SC,Boeing 737-800,177,Frontier Airlines
+215,N62963PZ,Boeing 787-8,238,Southwest Airlines
+216,N59974XR,Airbus A330-300,331,Southwest Airlines
+217,N22697TX,Airbus A319,146,United Airlines
+218,N43675EL,Airbus A320,184,Alaska Airlines
+219,N86402JL,Boeing 787-9,293,Allegiant Air
+220,N87429HA,Airbus A321,216,Delta Air Lines
+221,N89637WL,Boeing 787-8,238,Delta Air Lines
+222,N19294YW,Boeing 787-9,294,American Airlines
+223,N49790ES,Boeing 737-800,175,Spirit Airlines
+224,N24451QI,Boeing 767-300,261,Alaska Airlines
+225,N79615QF,Boeing 767-300,264,United Airlines
+226,N73153KY,Airbus A321,216,JetBlue Airways
+227,N17602MZ,Boeing 777-200,303,United Airlines
+228,N55144LY,Boeing 767-300,263,Delta Air Lines
+229,N59511SF,Boeing 787-9,293,Allegiant Air
+230,N65608LQ,Boeing 757-200,196,Allegiant Air
+231,N61697BT,Airbus A320,179,Delta Air Lines
+232,N33180ZY,Boeing 787-8,239,Allegiant Air
+233,N65912AO,Boeing 787-9,288,American Airlines
+234,N57628ZU,Airbus A321neo,239,Southwest Airlines
+235,N46123MP,Boeing 737-900,173,JetBlue Airways
+236,N48865IV,Boeing 787-9,293,Spirit Airlines
+237,N76835CC,Boeing 737 MAX 8,174,Frontier Airlines
+238,N88151XG,Boeing 777-200,307,Delta Air Lines
+239,N33432BV,Boeing 757-200,201,Southwest Airlines
+240,N41571OG,Airbus A320,177,Alaska Airlines
+241,N55347OY,Boeing 767-300,263,Frontier Airlines
+242,N16567JN,Boeing 737 MAX 9,197,Frontier Airlines
+243,N53242AT,Airbus A321,221,Allegiant Air
+244,N21303VC,Boeing 737-700,144,Spirit Airlines
+245,N26390XP,Boeing 757-200,195,Allegiant Air
+246,N82147EE,Boeing 787-9,294,Alaska Airlines
+247,N73620NG,Airbus A330-300,336,American Airlines
+248,N18983CB,Airbus A319,140,Hawaiian Airlines
+249,N39076SJ,Airbus A330-200,290,Alaska Airlines
+250,N93521BY,Airbus A330-300,338,United Airlines

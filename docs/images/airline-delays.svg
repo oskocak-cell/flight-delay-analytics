@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="590" viewBox="0 0 1100 590" role="img" aria-labelledby="title desc">
+<title id="title">Flight delays in the educational sample</title>
+<desc id="desc">Average departure and arrival clock-time delays by airline. Sample observations only, with flight counts. These are not real airline performance estimates.</desc>
+<rect width="1100" height="590" fill="#f7f9fc"/>
+<g font-family="Arial, sans-serif" fill="#172b4d">
+<text x="36" y="40" font-size="25" font-weight="700">Flight delay analytics</text>
+<text x="36" y="66" font-size="14">250 course sample flights · Clock-time rollover corrected · Minutes, including early flights</text>
+<rect x="660" y="26" width="14" height="14" fill="#175e91"/><text x="682" y="38" font-size="13">Departure</text>
+<rect x="800" y="26" width="14" height="14" fill="#27a39c"/><text x="822" y="38" font-size="13">Arrival</text>
+<line x1="300" y1="106" x2="300" y2="528" stroke="#dce3ed"/>
+<text x="300" y="98" font-size="12" text-anchor="middle">0</text>
+<line x1="400" y1="106" x2="400" y2="528" stroke="#dce3ed"/>
+<text x="400" y="98" font-size="12" text-anchor="middle">5</text>
+<line x1="500" y1="106" x2="500" y2="528" stroke="#dce3ed"/>
+<text x="500" y="98" font-size="12" text-anchor="middle">10</text>
+<line x1="600" y1="106" x2="600" y2="528" stroke="#dce3ed"/>
+<text x="600" y="98" font-size="12" text-anchor="middle">15</text>
+<line x1="700" y1="106" x2="700" y2="528" stroke="#dce3ed"/>
+<text x="700" y="98" font-size="12" text-anchor="middle">20</text>
+<line x1="800" y1="106" x2="800" y2="528" stroke="#dce3ed"/>
+<text x="800" y="98" font-size="12" text-anchor="middle">25</text>
+<line x1="900" y1="106" x2="900" y2="528" stroke="#dce3ed"/>
+<text x="900" y="98" font-size="12" text-anchor="middle">30</text>
+<text x="36" y="134" font-size="14">JetBlue Airways</text>
+<text x="258" y="134" font-size="12" fill="#526581" text-anchor="end">n=33</text>
+<rect x="300" y="118" width="392.12" height="13" rx="2" fill="#175e91"/>
+<text x="702.12" y="129" font-size="11">19.6</text>
+<rect x="300" y="135" width="405.45" height="13" rx="2" fill="#27a39c"/>
+<text x="715.45" y="146" font-size="11">20.3</text>
+<text x="36" y="176" font-size="14">Frontier Airlines</text>
+<text x="258" y="176" font-size="12" fill="#526581" text-anchor="end">n=21</text>
+<rect x="300" y="160" width="377.14" height="13" rx="2" fill="#175e91"/>
+<text x="687.14" y="171" font-size="11">18.9</text>
+<rect x="300" y="177" width="263.81" height="13" rx="2" fill="#27a39c"/>
+<text x="573.81" y="188" font-size="11">13.2</text>
+<text x="36" y="218" font-size="14">United Airlines</text>
+<text x="258" y="218" font-size="12" fill="#526581" text-anchor="end">n=25</text>
+<rect x="300" y="202" width="342.40" height="13" rx="2" fill="#175e91"/>
+<text x="652.40" y="213" font-size="11">17.1</text>
+<rect x="300" y="219" width="523.20" height="13" rx="2" fill="#27a39c"/>
+<text x="833.20" y="230" font-size="11">26.2</text>
+<text x="36" y="260" font-size="14">Southwest Airlines</text>
+<text x="258" y="260" font-size="12" fill="#526581" text-anchor="end">n=22</text>
+<rect x="300" y="244" width="331.82" height="13" rx="2" fill="#175e91"/>
+<text x="641.82" y="255" font-size="11">16.6</text>
+<rect x="300" y="261" width="366.36" height="13" rx="2" fill="#27a39c"/>
+<text x="676.36" y="272" font-size="11">18.3</text>
+<text x="36" y="302" font-size="14">American Airlines</text>
+<text x="258" y="302" font-size="12" fill="#526581" text-anchor="end">n=21</text>
+<rect x="300" y="286" width="292.38" height="13" rx="2" fill="#175e91"/>
+<text x="602.38" y="297" font-size="11">14.6</text>
+<rect x="300" y="303" width="485.71" height="13" rx="2" fill="#27a39c"/>
+<text x="795.71" y="314" font-size="11">24.3</text>
+<text x="36" y="344" font-size="14">Allegiant Air</text>
+<text x="258" y="344" font-size="12" fill="#526581" text-anchor="end">n=34</text>
+<rect x="300" y="328" width="270.59" height="13" rx="2" fill="#175e91"/>
+<text x="580.59" y="339" font-size="11">13.5</text>
+<rect x="300" y="345" width="330.59" height="13" rx="2" fill="#27a39c"/>
+<text x="640.59" y="356" font-size="11">16.5</text>
+<text x="36" y="386" font-size="14">Alaska Airlines</text>
+<text x="258" y="386" font-size="12" fill="#526581" text-anchor="end">n=27</text>
+<rect x="300" y="370" width="263.70" height="13" rx="2" fill="#175e91"/>
+<text x="573.70" y="381" font-size="11">13.2</text>
+<rect x="300" y="387" width="345.19" height="13" rx="2" fill="#27a39c"/>
+<text x="655.19" y="398" font-size="11">17.3</text>
+<text x="36" y="428" font-size="14">Spirit Airlines</text>
+<text x="258" y="428" font-size="12" fill="#526581" text-anchor="end">n=24</text>
+<rect x="300" y="412" width="202.50" height="13" rx="2" fill="#175e91"/>
+<text x="512.50" y="423" font-size="11">10.1</text>
+<rect x="300" y="429" width="291.67" height="13" rx="2" fill="#27a39c"/>
+<text x="601.67" y="440" font-size="11">14.6</text>
+<text x="36" y="470" font-size="14">Delta Air Lines</text>
+<text x="258" y="470" font-size="12" fill="#526581" text-anchor="end">n=26</text>
+<rect x="300" y="454" width="199.23" height="13" rx="2" fill="#175e91"/>
+<text x="509.23" y="465" font-size="11">10.0</text>
+<rect x="300" y="471" width="336.92" height="13" rx="2" fill="#27a39c"/>
+<text x="646.92" y="482" font-size="11">16.8</text>
+<text x="36" y="512" font-size="14">Hawaiian Airlines</text>
+<text x="258" y="512" font-size="12" fill="#526581" text-anchor="end">n=17</text>
+<rect x="300" y="496" width="128.24" height="13" rx="2" fill="#175e91"/>
+<text x="438.24" y="507" font-size="11">6.4</text>
+<rect x="300" y="513" width="452.94" height="13" rx="2" fill="#27a39c"/>
+<text x="762.94" y="524" font-size="11">22.6</text>
+<text x="36" y="566" font-size="13" fill="#526581">Educational sample only · Small group sizes · No causal or real-world airline ranking claims</text>
+</g></svg>
