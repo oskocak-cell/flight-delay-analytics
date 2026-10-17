@@ -6,7 +6,7 @@ Course: Business Intelligence for Data Science, Tilburg University, Fall 2025 / 
 
 Submitted topic: Monitoring airline operations based on flight schedules and delay analysis.
 
-The submitted group report lists Barkın Kaya, Ozan Safak Kocak, Gorgud Shirinzade, Seçkin Sayin, and Tansel Karagoz. Their student identifiers are omitted. The final report credits the team jointly. Ozan’s CV describes his work on the star-schema design, Pentaho ETL, and SQL views/reporting within that group project, and reports an assignment grade of 10/10. The grade is supplied by Ozan; a transcript is not republished here. Shared assets are credited to the group.
+The submitted group report lists Ozan Safak Kocak and Barkın Kaya. Their student identifiers are omitted. The final report credits the team jointly. Ozan’s CV describes his work on the star-schema design, Pentaho ETL, and SQL views/reporting within that group project, and reports an assignment grade of 10/10. The grade is supplied by Ozan; a transcript is not republished here. Shared assets are credited to the group.
 
 Retained evidence:
 
