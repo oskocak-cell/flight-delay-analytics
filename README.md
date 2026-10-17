@@ -8,7 +8,7 @@ A business intelligence workflow for exploring airline punctuality: model operat
 
 This portfolio preserves the available project evidence and adds a **Python + SQLite reproduction** so reviewers can inspect and run the analysis without installing the original desktop tools. The reproduction was added during portfolio preparation in October 2026; it is separate from the original group submission.
 
-[Project case study](docs/case-study.md) · [Data and assumptions](docs/data-and-methods.md) · [Original warehouse model](models/dw_airline.mwb) · [Original report](reports/original/airport-delay-report.pdf)
+[Project case study](docs/case-study.md) · [Original Pentaho sources](pentaho/README.md) · [Native setup guide](docs/original-pentaho.md) · [Data and assumptions](docs/data-and-methods.md) · [Original report](reports/original/airport-delay-report.pdf)
 
 ![Average delays in the educational sample, by airline](docs/images/airline-delays.svg)
 
@@ -51,7 +51,7 @@ Example query, using Python's built-in SQLite support:
 python3 -c "import sqlite3; c=sqlite3.connect('build/flights.sqlite'); print(c.execute('SELECT airline, total_flights, ROUND(avg_departure_delay_min, 2) FROM delay_by_airline ORDER BY avg_departure_delay_min DESC').fetchall())"
 ```
 
-For the original MySQL design, open the schema-only `.mwb` files in MySQL Workbench. The original Pentaho transformations (`.ktr`) and report source (`.prpt`) were not present in the saved folder; screenshots and the exported report are retained as evidence. The SQLite reproduction does not claim to execute those missing workflows.
+For the original MySQL design, open the schema-only `.mwb` files in MySQL Workbench. The recovered **five Pentaho transformations and editable report** are available in [`pentaho/`](pentaho/README.md), with original MySQL views in [`sql/original/`](sql/original/). Connection credentials have been removed; see the [native setup and differences guide](docs/original-pentaho.md). The original desktop workflow requires local MySQL/Pentaho configuration and is separate from the tested SQLite reproduction.
 
 ## Architecture
 
@@ -74,7 +74,8 @@ The saved warehouse has four dimensions: `dim_date`, `dim_airport`, `dim_aircraf
 |---|---|
 | `data/sample/` | Five minimized course sample tables; direct pilot identifiers and contact fields removed |
 | `models/` | MySQL Workbench models with stored table rows removed |
-| `sql/` | Schema and analytical views for the SQLite reproduction |
+| `pentaho/` | Original ETL transformations and editable report, with credentials removed |
+| `sql/` | SQLite reproduction plus recovered original MySQL views and report query |
 | `scripts/` | Portable warehouse build, CSV export, and summary chart generation |
 | `tests/` | Eleven tests covering grain, joins, rollups, deterministic outputs, and midnight edge cases |
 | `docs/` | Case study, assumptions, provenance, and selected original screenshots |

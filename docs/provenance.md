@@ -23,7 +23,7 @@ The README, case study, data/method notes, minimized-data preparation, SQLite sc
 
 Private chats and planning notes were consulted only to help identify context. They are not included, and their suggested features are not used as proof of implementation. The original Word report, assignment template, team agreement, lecture recording and notes, and backups remain outside this public copy. The original local folder is unchanged.
 
-No original `.ktr` transformation files or `.prpt` report source was present. There is no evidence here of a production deployment, a predictive model, or measured operational improvements.
+A subsequently supplied folder from Barkın provided five original `.ktr` transformations, the editable `.prpt` report, and original MySQL view definitions. Public copies are in `pentaho/` and `sql/original/`; credentials and connection metadata are sanitized, and the pilot transformation filename is normalized. Transformation logic, step connections, report query, and report layout are retained. Additional raw warehouse and personal-field CSV exports were inspected for validation but not republished. The new folder confirmed both the original delay-flag definition and the midnight-duration issue. See `docs/original-pentaho.md` for setup and differences. There is no evidence here of a production deployment, a predictive model, or measured operational improvements.
 
 ## Rights
 

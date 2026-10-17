@@ -29,7 +29,7 @@ is_delayed = departure delay > 15 OR arrival delay > 15
 
 Examples: 00:10 actual vs 23:55 scheduled is +15 minutes; 23:55 actual vs 00:10 scheduled is −15 minutes. Exactly 15 minutes is not flagged by this reproduction's strict `> 15` threshold.
 
-The delay calculation assumes a true difference in `[-720, 720)` minutes. Durations assume compatible clock frames and an overnight scheduled journey shorter than 24 hours. Without timezone information, computed durations are **inferred clock durations**, not verified elapsed flight times. A scheduled zero duration or an inferred non-positive actual duration is rejected. The original Pentaho delay-flag formula could not be fully verified from the retained files; the current threshold is an explicit choice for this reproduction.
+The delay calculation assumes a true difference in `[-720, 720)` minutes. Durations assume compatible clock frames and an overnight scheduled journey shorter than 24 hours. Without timezone information, computed durations are **inferred clock durations**, not verified elapsed flight times. A scheduled zero duration or an inferred non-positive actual duration is rejected. The recovered Pentaho fact transformation confirms its original flag uses arrival delay strictly greater than zero. The reproduction intentionally uses the separate >15-minute departure-or-arrival threshold above. Both versions flag 196 flights, but 66 individual flag assignments differ; the counts are not evidence of equivalent definitions. See [original workflow differences](original-pentaho.md).
 
 ## Scope of analysis
 
@@ -37,4 +37,4 @@ The sample has 250 executions spanning 2020–2025 and sparse coverage by airpor
 
 ## Reproduction checks
 
-Eleven automated tests cover midnight rollover, invalid times, delay thresholds, duration consistency, unique flight grain, foreign keys, aggregation counts, current sample totals, and deterministic exports. The GitHub workflow runs these tests and builds a fresh warehouse. The original MySQL/Pentaho desktop workflows are evidenced by models and screenshots rather than re-executed here.
+Eleven automated tests cover midnight rollover, invalid times, delay thresholds, duration consistency, unique flight grain, foreign keys, aggregation counts, current sample totals, and deterministic exports. The GitHub workflow runs these tests and builds a fresh warehouse. The recovered original MySQL/Pentaho sources are included with credentials removed and their structure checked. The native desktop workflow has not been executed here; automated runtime checks cover the portable reproduction.

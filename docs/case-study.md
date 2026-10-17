@@ -18,7 +18,7 @@ The submitted report and screenshots document Pentaho transformations for dimens
 
 ![Original MySQL airport delay view](images/original-airport-view.jpg)
 
-Pentaho Report Designer produced an airport-level report ordered by average departure delay. Its [PDF export](../reports/original/airport-delay-report.pdf) is retained as historical evidence. The `.ktr` and `.prpt` source files were not found, so the exact original desktop execution cannot be reproduced from this repository alone.
+Pentaho Report Designer produced an airport-level report ordered by average departure delay. Its [PDF export](../reports/original/airport-delay-report.pdf) is retained as historical evidence. The original [`.ktr` transformations and `.prpt` report](../pentaho/README.md) have now been recovered and added, with credentials removed. Original MySQL view definitions are also available. See the [native workflow guide](original-pentaho.md) for setup requirements, original quality issues, and differences from the portable reproduction. The native desktop stack has not been re-executed during portfolio preparation.
 
 ## Portfolio reproduction and quality review
 
