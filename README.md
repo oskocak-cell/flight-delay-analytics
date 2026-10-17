@@ -84,6 +84,6 @@ The saved warehouse has four dimensions: `dim_date`, `dim_airport`, `dim_aircraf
 
 ## Attribution and scope
 
-This is **Ozan Safak Kocak's portfolio presentation of a group project**, not a claim of sole authorship. The submitted report credits **[Barkın Kaya (@barkinkaya1)](https://github.com/barkinkaya1) and Ozan Safak Kocak**. My portfolio focus is the star-schema design, Pentaho ETL, and SQL-based reporting described in my CV, delivered as part of this group project. The original submission credits the team jointly; the repository does not imply exclusive ownership of shared work.
+This is **Ozan Safak Kocak's portfolio presentation of a group project**, not a claim of sole authorship. The submitted report credits **Ozan Safak Kocak and [Barkın Kaya (@barkinkaya1)](https://github.com/barkinkaya1)**. My portfolio focus is the star-schema design, Pentaho ETL, and SQL-based reporting described in my CV, delivered as part of this group project. The original submission credits the team jointly; the repository does not imply exclusive ownership of shared work.
 
 The original group assets and course sample data remain attributed to their respective creators; no new blanket licence is granted over them. Saved private chats, lecture materials and recordings, policy agreements, student numbers, office temporary files, and raw pilot personal fields are excluded. AI assistance was used to organise this public portfolio and implement the clearly labelled reproduction and validation code. See [provenance](docs/provenance.md).
